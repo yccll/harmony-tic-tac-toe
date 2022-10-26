@@ -1,0 +1,14 @@
+{
+    "appID": "com.example.demo",
+    "appName": "default",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "minPlatformVersion": 4,
+    "pages": [
+        "pages/index/index",
+        "pages/game/game"
+    ],
+    "deviceType": [
+        "liteWearable"
+    ]
+}
