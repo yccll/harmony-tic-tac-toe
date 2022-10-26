@@ -1,6 +1,0 @@
-<div class="container">
-    <text class="title">
-        {{title}}
-    </text>
-    <input type="button" value="开始" class="btn" @click="clickStart"></input>
-</div>
